@@ -1,0 +1,25 @@
+header{
+	text-align: center;
+	font-size: 20px;
+	height: 20%;
+}
+#text{
+	text-align: center;
+	height: 80%; 
+}
+#div1{
+	margin-top: 10%;
+}
+#div2{
+	text-align: center;
+	margin-top: 15%;
+}
+#img{
+	display: block;
+	margin: auto;
+	height: 300px;
+}
+footer{
+	text-align: left;
+	position: relative;
+}
